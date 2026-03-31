@@ -1,8 +1,7 @@
 # Hi, I'm Isha 👋
 
-🎓 MSc Microbiology Graduate  
-📚 Currently preparing for CSIR NET  
-🌱 Curious learner exploring technology, education, and real-world impact  
+🎓 MSc Microbiology Graduate | CSIR NET Aspirant  
+🌱 Curious learner exploring technology, education, and real-world impact
 
 ## 🔬 My Background
 - Postgraduate in Microbiology with focus on environmental applications  
